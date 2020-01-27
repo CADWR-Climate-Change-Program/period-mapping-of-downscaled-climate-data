@@ -4,10 +4,12 @@ The **pmap** package is for preparation of daily perturbed time-series of temper
 
 # Contact
 [Wyatt Arnold](mailto:wyatt.arnold@water.ca.gov)
+
 Engineer, Water Resources
+
 Climate Change Program
+
 California Department of Water Resources
-(916) 653-4849
 
 # Scripts
 ## "loca-ei-qmap-T-P"
@@ -20,7 +22,7 @@ The script 'loca-ei-qmap-T-P.py' is configured to run **e**nsemble-**i**nformed 
 - `ei_months`
     months to compute the average period change statistic over. Can be left as `None` or a list of months e.g. `[12,1]`
 - `quadrants_for_model_percentiles`
-    list of percentile combinations for model grouping e.g. `['CT', [10,10], [10,90]]` for processing the central tendency (CT), the 10th percentile  precip and temperature, and the 10th percentile temperature and 90th percentile precip combination.
+    list of percentile combinations for model grouping, e.g. `['CT', [10,10], [10,90]]` to process the central tendency (CT), the 10th percentile  precip and temperature, and the 10th percentile temperature and 90th percentile precip combination.
 - `quadrants_for_scenario_output`
     same as `quadrants_for_model_percentiles`, but can be a limited subset for final daily weather outputs
 - `basin`
