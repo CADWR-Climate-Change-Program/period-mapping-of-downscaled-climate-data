@@ -3,12 +3,9 @@
 The **pmap** package is for preparation of daily perturbed time-series of temperature and precipitation based on ensmebles of downscaled climate change projections. Quadrants of average annual temperature and precipitation change are computed over 30-year periods for each grid point. Quantile mapping is performed at the monthly scale to develop temperature (delta) and precipitation (factor) change factors. The monthly T-delta and P-factor are applied to a daily time series of historical gridded meteorology (Livneh).
 
 # Contact
-[Wyatt Arnold](mailto:wyatt.arnold@water.ca.gov)
-
-Engineer, Water Resources
-
-Climate Change Program
-
+[Wyatt Arnold](mailto:wyatt.arnold@water.ca.gov)<br>
+Engineer, Water Resources<br>
+Climate Change Program<br>
 California Department of Water Resources
 
 # Scripts
