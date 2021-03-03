@@ -45,3 +45,6 @@ The script 'loca-ei-qmap-T-P.py' is configured to run **e**nsemble-**i**nformed 
 - scipy
 - netcdf4
 - xlsxwriter
+
+# Disclaimer
+> All information provided by the Department of Water Resources is made available to provide immediate access for the convenience of interested persons. While the Department believes the information to be reliable, human or mechanical error remains a possibility. Therefore, the Department does not guarantee the accuracy, completeness, timeliness, or correct sequencing of the information. Neither the Department of Water Resources nor any of the sources of the information shall be responsible for any errors or omissions, or for the use or results obtained from the use of this information.
